@@ -106,3 +106,22 @@ We will get a good amount of practice.
 This project is licensed under the MIT License as an example project. 
 You are encouraged to fork, copy, explore, and modify the code as you like. 
 See the [LICENSE](LICENSE.txt) file for more.
+
+
+## Custom Producer and Consumer
+
+### Running the Custom Producer
+- Activate the virtual environment:
+  - Windows: `.venv\Scripts\activate`
+  - Mac/Linux: `source .venv/bin/activate`
+- Run the producer:
+  - Windows: `py -m producers.basic_producer_huzaifa`
+  - Mac/Linux: `python3 -m producers.basic_producer_huzaifa`
+
+### Running the Custom Consumer
+- Activate the virtual environment:
+  - Windows: `.venv\Scripts\activate`
+  - Mac/Linux: `source .venv/bin/activate`
+- Run the consumer:
+  - Windows: `py -m consumers.basic_consumer_huzaifa`
+  - Mac/Linux: `python3 -m consumers.basic_consumer_huzaifa`
